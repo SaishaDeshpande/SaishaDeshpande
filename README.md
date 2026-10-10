@@ -7,16 +7,16 @@ My experience spans national-level hackathons, collaborative software projects, 
 
 ## 🏆 Achievements & Experience
 
-- 🥇 **Smart India Hackathon 2025 — National Winner**  
-  Team CattleCoders | JeevSarthi — A digital platform supporting livestock healthcare and antimicrobial monitoring.
+- 🥇 **Smart India Hackathon 2025 - National Winner**  
+  Team CattleCoders | JeevSarthi : A digital platform supporting livestock healthcare and antimicrobial monitoring.
 
-- 🥈 **DevCraft, IIT Indore E-Summit 2026 — AIR 2**  
-  Team Smooth Operators | Resolv — An offline-first, AI-assisted order management system for micro-enterprises.
+- 🥈 **DevCraft, IIT Indore E-Summit 2026 - AIR 2**  
+  Team Smooth Operators | Resolv : An offline-first, AI-assisted order management system for micro-enterprises.
 
-- 🥉 **Case Chronicles, IIT Indore E-Summit 2026 — AIR 3**  
-  Team Smooth Operators | MasterCart — A business strategy case focused on sustainable growth in online grocery.
+- 🥉 **Case Chronicles, IIT Indore E-Summit 2026 - AIR 3**  
+  Team Smooth Operators | MasterCart : A business strategy case focused on sustainable growth in online grocery.
 
-- 💻 **GirlScript Summer of Code 2026 — Open Source Contributor**  
+- 💻 **GirlScript Summer of Code 2026 - Open Source Contributor**  
   Contributed to collaborative open-source development through GitHub.
 
 ## 💻 Technical Focus
@@ -32,8 +32,7 @@ Building stronger engineering fundamentals, contributing to open source, and exp
 
 ## 📫 Connect
 
-  **LinkedIn:** [Saisha Deshpande](https://www.linkedin.com/in/saisha-deshpande-28b827304)
+- **LinkedIn:** [Saisha Deshpande](https://www.linkedin.com/in/saisha-deshpande-28b827304)
 - **GitHub:** [SaishaDeshpande](https://github.com/SaishaDeshpande)
-
 
 
