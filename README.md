@@ -19,6 +19,25 @@ My experience spans national-level hackathons, collaborative software projects, 
 - 💻 **GirlScript Summer of Code 2026 - Open Source Contributor**  
   Contributed to collaborative open-source development through GitHub.
 
+## 🚀 Projects & Collaborations
+
+### 🐄 [JeevSaarthi](https://github.com/Chandu7a7/jeevsarthi)
+**Smart India Hackathon 2025 | National Winning Project**
+
+A team-built livestock healthcare platform focused on antimicrobial usage monitoring, veterinary workflows, and food safety compliance.
+
+- **Tech Stack:** React, Node.js, Express.js, MongoDB, Python, FastAPI
+- **Key Features:** AI-assisted AMU/MRL monitoring, blockchain-based traceability, role-based dashboards, and digital livestock health records.
+
+### 📦 [Resolv](https://github.com/rxsinhaa/devcraft)
+**DevCraft, IIT Indore E-Summit 2026 | AIR 2**
+
+A team-built, offline first AI assisted order management system designed for micro-enterprises operating in low connectivity environments.
+
+- **Tech Stack:** Next.js, React, TypeScript, IndexedDB, Gemini API
+- **Key Features:** Hinglish to structured order parsing, offline operations, and multi device synchronization.
+
+
 ## 💻 Technical Focus
 
 - **Languages:** Java, Python
